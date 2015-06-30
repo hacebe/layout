@@ -18,7 +18,7 @@
 
 	<div class="wrapper">
 		<div class="header">
-			<div><h1>Logo</h1></div>
+			<div><h1><img src="images/logo.png"></h1></div>
 			<nav>
 				<li>HOME</li>
 				<li>FESTIVAL
